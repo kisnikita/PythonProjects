@@ -1,4 +1,4 @@
-# Pyton-Projects
+# Python-Projects
 
 ### VUT University : ISJ_2022
 
